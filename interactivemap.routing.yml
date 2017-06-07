@@ -1,0 +1,9 @@
+---
+interactivemap.settings:
+  path: '/admin/config/interactivemap/settings'
+  defaults:
+    _form: '\Drupal\interactivemap\Form\SettingsForm'
+    _title: 'Interactive Maps Settings'
+  requirements:
+    _permission: 'administer site configuration'
+...

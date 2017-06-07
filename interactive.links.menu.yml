@@ -1,0 +1,7 @@
+---
+interactivemap.settings:
+  title: 'Interactive Maps Settings'
+  description: 'Settings for the Interactive Maps Module'
+  parent: system.admin_config_services
+  route_name: interactivemap.settings
+...
